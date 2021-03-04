@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandemicano", "pandemicano.csproj", "{B3B0FE33-19EB-2F5A-5D0A-3208349EB106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandemicano.Editor", "pandemicano.Editor.csproj", "{2136DE68-49B4-7988-D3D6-5F69E7B4C317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B0FE33-19EB-2F5A-5D0A-3208349EB106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B0FE33-19EB-2F5A-5D0A-3208349EB106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B0FE33-19EB-2F5A-5D0A-3208349EB106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B0FE33-19EB-2F5A-5D0A-3208349EB106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2136DE68-49B4-7988-D3D6-5F69E7B4C317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2136DE68-49B4-7988-D3D6-5F69E7B4C317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2136DE68-49B4-7988-D3D6-5F69E7B4C317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2136DE68-49B4-7988-D3D6-5F69E7B4C317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
